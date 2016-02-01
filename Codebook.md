@@ -138,3 +138,5 @@ Dataset is grouped by
 * subject
 
 avg_value_by_feature_and_activity_and_subject_df is the result after Step 5 of project description
+
+This data frame also is saved under the filename avg_value_by_feature_and_activity_and_subject.txt and can also be found in the github folder.
