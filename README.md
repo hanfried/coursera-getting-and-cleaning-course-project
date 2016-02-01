@@ -60,4 +60,6 @@ The script generates the following variables:
 - tidy_df : tidied up dataframe
 - (result of step 4) tidy_only_mean_std_measurements_df : 
 - (result of step 5) avg_value_by_feature_and_activity_and_subject_df 
+
+Look at the [Codebook](https://github.com/hanfried/coursera-getting-and-cleaning-course-project/blob/master/Codebook.md) for more details about.
   
